@@ -1,0 +1,54 @@
+# Ambiente
+.env
+.env.local
+.env.*.local
+.env*.txt
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Vite / Build
+dist/
+dist-ssr/
+*.local
+.vite/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Vercel
+.vercel/
+.output/
+
+# Logs
+logs/
+*.log
+
+# Cache
+.eslintcache
+.prettier-ignore
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Sensível
+uploads/
+temp/
+.env.production.local
