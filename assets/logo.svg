@@ -1,0 +1,26 @@
+<svg width="900" height="760" viewBox="0 0 900 760" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nolefy Design logo">
+  <title>Nolefy Design</title>
+  <rect width="900" height="760" fill="#ffffff"/>
+  <g fill="#050505">
+    <path d="M454 90 L522 90 L492 532 L472 532 Z"/>
+    <path d="M414 94 L329 48 L286 124 L376 188 Z"/>
+    <path d="M515 96 L606 50 L656 124 L565 186 Z"/>
+    <path d="M388 160 L278 202 L225 289 L345 286 Z"/>
+    <path d="M548 160 L655 204 L708 290 L589 286 Z"/>
+    <path d="M365 245 L246 288 L138 409 L318 412 Z"/>
+    <path d="M573 245 L690 289 L798 410 L617 412 Z"/>
+    <path d="M341 337 L228 392 L116 543 L297 513 Z"/>
+    <path d="M594 334 L705 390 L804 546 L624 512 Z"/>
+    <path d="M383 540 L520 540 L492 584 L410 584 Z"/>
+    <path d="M420 448 L470 448 L450 560 L440 560 Z"/>
+    <path d="M298 524 H446 L468 554 H316 Z"/>
+    <path d="M455 524 H599 L578 554 H482 Z"/>
+  </g>
+  <g fill="#050505">
+    <path d="M438 160 C438 160, 412 266, 408 350 C404 438, 420 496, 437 562 L456 562 C474 501, 490 435, 486 349 C482 264, 457 160, 438 160 Z"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#050505" text-anchor="middle">
+    <text x="450" y="660" font-size="116" font-weight="700">NOLEFY</text>
+    <text x="450" y="710" font-size="52" font-weight="700">design.</text>
+  </g>
+</svg>
